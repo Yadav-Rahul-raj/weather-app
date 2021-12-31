@@ -7,7 +7,7 @@ weatherPart = wrapper.querySelector(".weather-part"),
 wIcon = weatherPart.querySelector("img"),
 arrowBack = wrapper.querySelector("header i");
 
-let ApiKey = '90757319b024e27943b8869c25bccd2f';
+let ApiKey ='Secret code(see in your email account)';
 let api;
 
 inputField.addEventListener("keyup", e =>{
